@@ -18,12 +18,12 @@ int main()
 			//printf("%s\n",line);
 			N++;
 		}
-		printf("¦³´X´Ê¾ð? %d\n",N);
+		printf("Â¦Â³Â´XÂ´ÃŠÂ¾Ã°? %d\n",N);
 		qsort(tree,N,32,compare);
 		for(int i=0;i<N;i++){
 			printf("%s\n",tree[i]);
 		}
-		printf("====¤À¹j½u====\n");
+		printf("====Â¤Ã€Â¹jÂ½u====\n");
 	}
 }
 }
