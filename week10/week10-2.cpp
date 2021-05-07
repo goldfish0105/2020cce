@@ -12,7 +12,7 @@ int main()
 			//printf("%s\n",line);
 			N++;
 		}
-		printf("¦³´X´Ê¾ð? %d\n",N);
-		printf("====¤À¹j½u====\n");
+		printf("Â¦Â³Â´XÂ´ÃŠÂ¾Ã°? %d\n",N);
+		printf("====Â¤Ã€Â¹jÂ½u====\n");
 	}
 }
