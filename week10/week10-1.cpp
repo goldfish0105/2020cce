@@ -11,7 +11,7 @@ int main()
 			if(strcmp(line,"")==0)break;
 			printf("%s\n",line);
 		}
-		printf("====¤À¹j½u====\n");
+		printf("====Â¤Ã€Â¹jÂ½u====\n");
 	}
 }
 
