@@ -1,3 +1,4 @@
+```c
 void setup(){
   size(1024, 400);
   textFont(createFont("標楷體",50));
@@ -15,3 +16,4 @@ void draw(){
   int hh=ans/60/60%60,mm=ans/60%60,ss=ans%60;
   text("還剩下:"+hh+":"+mm+":"+ss,100,300);
 }
+```
